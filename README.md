@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# SimplePOS-vb
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT) [![Open Source Software](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red)](https://opensource.org/licenses/MIT)
 
